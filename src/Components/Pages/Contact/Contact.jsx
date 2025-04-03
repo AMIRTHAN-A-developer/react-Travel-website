@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./Contact.css"; 
+import './contact.css'
 import { FaWhatsapp } from "react-icons/fa"; 
 import Footer from '../Footer/Footer'
 
