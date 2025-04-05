@@ -38,7 +38,7 @@ const Footer = () => {
             <li><Link to="/destinations">Destinations</Link></li>
             <li>
             <h4 className="hover-h4"><Link to="/contact">Contact Us</Link></h4>
-              <a href="https://www.instagram.com/_sun_holidays?igsh=MXQ0dWV6ZGQzbDJqNA==" 
+              <a href="https://www.instagram.com/" 
                 target="_blank" 
                 rel="noopener noreferrer">
                 <IoLogoInstagram className="foot-link"/>
